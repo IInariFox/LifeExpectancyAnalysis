@@ -1,2 +1,2 @@
-Purpose:
+# Purpose
 The purpose of this project is to explore the relationship between Gross Domestic Product and life expectancy across six countries using data from the World Health Organization and the World Bank. The analysis will focus on understanding whether a country's economic performance, as reflected in its GDP, correlates with the health outcomes of its population, specifically life expectancy. By examining how these variables have changed over time, the project aims to identify any significant patterns or trends, and determine if the relationship between GDP and life expectancy is consistent across different countries or if it varies depending on the economic and geographical context. 
